@@ -1,6 +1,8 @@
 # RubiksCube
 Fully functional Rubik's cube using [p5js](https://github.com/processing/p5.js) and WebGL
 
+Hosted on https://trinityd.github.io/RubiksCube/
+
 Controls: 
 
 - Arrow keys to rotate camera
